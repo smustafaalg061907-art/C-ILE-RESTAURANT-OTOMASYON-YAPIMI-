@@ -1,0 +1,7 @@
+﻿C:\Users\LENOVO\.gemini\antigravity\scratch\RestaurantOtomasyon\PaymentForm.cs(64,40): error CS0103: The name 'TableStatus' does not exist in the current context [C:\Users\LENOVO\.gemini\antigravity\scratch\RestaurantOtomasyon\RestaurantOtomasyon.csproj]
+
+Build FAILED.
+    2 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.96
